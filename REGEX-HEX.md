@@ -20,6 +20,7 @@ Examples: `#355C7D` `#6C5B7B` OR `#C06` `#F67`
 - [The OR Operator](#the-or-operator)
 - [Flags](#flags)
 - [Character Escapes](#character-escapes)
+- [Author](#author)
 
 ## Regex Components
 
